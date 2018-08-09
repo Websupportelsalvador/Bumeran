@@ -1,0 +1,2 @@
+TIT|Reporte de Usuarios
+CMP|Tipo Usuario	       |Tipo 		         |select	| |r|TipoUsuario.php

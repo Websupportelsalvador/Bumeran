@@ -1,0 +1,15 @@
+INICIO							|Contenido.php
+MIS CLIENTES					|ListarClientes.php
+NUEVO CLIENTE					|Clientes.php
+CARGAR EXCEL					|CargarClientes.php
+PROCESAR EXCEL					|LeerExcelClientes.php
+LOGIN							|Login.php
+MI INFORMACION					|EdicionUsuario.php
+TIPIFICACION					|Tipificacion.php
+USUARIOS						|Usuarios.php
+LOGOUT							|Logout.php
+PLANES							|Planes.php
+REPORTES 						|ListarReportes.php
+PASSWORD						|EditarPassword.php
+PERMISOS						|ListarUsuarios.php
+INFORMACION						|AccionesAdmin.php

@@ -1,0 +1,4 @@
+TIT|Registro de Llamadas
+CMP|Fecha Inicial      |FECHAINICIAL             |date		| |r|
+CMP|Fecha Final	       |FECHAFINAL	             |date		| |r|
+CMP|Ejecutivo	       |EJECUTIVO 		         |select	| |r|ListaEjecutivo.php

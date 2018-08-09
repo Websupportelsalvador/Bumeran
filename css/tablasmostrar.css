@@ -1,0 +1,73 @@
+.ImpresionconMarcoDocumentos
+{
+     COLOR: #000000;
+     BORDER-RIGHT : #999999 1px solid;
+     BORDER-TOP   : #999999 1px solid;
+     BORDER-BOTTOM: #999999 1px solid;
+     BORDER-LEFT  : #999999 1px solid;	
+     font-style: normal;
+     font-family: Arial;
+     FONT-WEIGHT: normal;
+     font-style: normal;	 
+     FONT-SIZE: 10px;
+	 BACKGROUND-COLOR: #FFFFFF;
+}
+body {
+  color: black;
+}
+#table {
+-moz-user-select:none;
+cursor:default;
+font-family:Arial,sans-serif;
+font-size:11px;
+width:100%;
+}
+#table th#hoverTH {
+background:#555555 none repeat scroll 0%;
+}
+#table th {
+background:#666666 none repeat scroll 0%;
+border-bottom:1px solid #444444;
+border-left:1px solid #555555;
+border-top:1px solid #444444;
+color:#FFFFFF;
+cursor:pointer;
+padding:4px 0pt 4px 9px;
+text-align:left;
+}
+#table th span {
+color:#AAAAAA;
+}
+#table tr#this td {
+background-color:#3D80DF;
+border-color:#3E6FB3 rgb(88, 134, 199) rgb(62, 111, 179) rgb(52, 109, 190);
+border-style:solid;
+border-width:1px;
+color:#FFFFFF;
+font-weight:bold;
+}
+#table tr#hover td {
+background-color:#777777;
+border-color:#888888 rgb(119, 119, 119) rgb(136, 136, 136) rgb(136, 136, 136);
+border-style:solid;
+border-width:1px;
+color:#FFFFFF;
+}
+#table tr td {
+border-bottom:1px solid #FFFFFF;
+border-left:1px solid #D9D9D9;
+border-top:1px solid #FFFFFF;
+padding:3px 8px;
+}
+#table tr.even td {
+background:#EDF3FE none repeat scroll 0%;
+border-bottom:1px solid #E8F0FF;
+border-right:1px solid #FFFFFF;
+border-top:1px solid #E8F0FF;
+}
+#table tr.odd td {
+background:#FFFFFF none repeat scroll 0%;
+border-bottom:1px solid #FFFFFF;
+border-right:1px solid #FFFFFF;
+border-top:1px solid #FFFFFF;
+}
