@@ -8,6 +8,5 @@ Este proyecto es una continuación de un software Chileno abandonado por sus des
 les Entregamos la versión 1.0 para funcional con pocos bugs, como un inicio nos parece tener lo necesario para entregar a la comunidad de profesionales independientes y pequeña empresa una herramienta útil que les permita llevar de forma ordenada sus contactos
 
 Agosto 2018
-Juan Garcia
 Websupport de El Salvador
 www.websupportels.com
